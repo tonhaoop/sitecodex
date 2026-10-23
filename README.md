@@ -3,6 +3,10 @@
 Código completo da versão 6 do site, com HTML, CSS, JavaScript e imagens locais.
 Versão de origem: 850c4efc887cee8542d46feee0a97b82f353b5f5.
 
+## Baixar o repositório completo
+
+[Clique aqui para baixar todos os arquivos e imagens em ZIP](https://github.com/tonhaoop/sitecodex/archive/refs/heads/main.zip). Depois, extraia o ZIP para acessar o site completo, incluindo a pasta `assets`.
+
 ## Abrir no VS Code
 
 1. Extraia o arquivo ZIP.
@@ -12,7 +16,7 @@ Versão de origem: 850c4efc887cee8542d46feee0a97b82f353b5f5.
 
 Não precisa instalar Node.js, executar npm install ou fazer uma compilação.
 Se já usa uma extensão de servidor local no VS Code, também pode visualizar por ela.
-O mapa, as fontes do Google e os links externos precisam de internet. As imagens e o comparador estão incluídos na pasta.
+O mapa, as fontes do Google e os links externos precisam de internet. As imagens estão incluídas na pasta `assets`.
 
 ## Arquivos principais
 
@@ -63,6 +67,6 @@ Domínio atual: https://dr-elimar-junior-oftalmologia.stonyrice9.chatgpt.site
 
 As alterações nesta cópia local não alteram automaticamente o site publicado no Sites.
 
-## Usar com GitHub
+## Repositório no GitHub
 
-Você pode enviar o conteúdo desta pasta a um repositório seu no GitHub. Este pacote não contém um repositório Git, credenciais ou vínculo de publicação automática.
+O código-fonte público está em [github.com/tonhaoop/sitecodex](https://github.com/tonhaoop/sitecodex). Você pode baixar o repositório completo pelo link ZIP no início deste documento.
