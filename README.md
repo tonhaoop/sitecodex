@@ -24,7 +24,7 @@ O mapa, as fontes do Google e os links externos precisam de internet. As imagens
 - `styles.css`: cores, tamanhos, espaçamento e adaptação ao celular.
 - `app.js`: menu móvel, links de contato e aviso de privacidade.
 - `site-config.js`: configurações utilizadas pelo JavaScript para WhatsApp, rotas, CRM e RQE.
-- `assets/`: retrato do médico, ícone e imagens anteriores.
+- `assets/`: retrato do médico, ícones e imagens anteriores.
 - `robots.txt` e `sitemap.xml`: informações para mecanismos de busca.
 
 Os arquivos de produção estão compactados em poucas linhas. O comando **Formatar Documento** do VS Code pode facilitar a edição de HTML e CSS.
