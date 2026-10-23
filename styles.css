@@ -44,8 +44,16 @@ body{background:var(--ivory)}
 .exam-number{color:var(--gold);font-size:11px;font-weight:700;letter-spacing:1.5px}
 .exam-card h3{margin:8px 0 17px;font-size:18px;color:var(--navy)}
 .exam-card ul{display:grid;gap:10px;margin:0;padding:0;list-style:none}
-.exam-card li{position:relative;padding-left:17px;color:var(--muted);font-size:13px;line-height:1.55}
-.exam-card li::before{position:absolute;left:0;top:.72em;width:5px;height:5px;border-radius:50%;background:var(--gold);content:''}
+.exam-card li{color:var(--muted);font-size:13px;line-height:1.55}
+.exam-card li::before{content:none}
+.exam-card details{border-bottom:1px solid #ece9e2}
+.exam-card li:last-child details{border-bottom:0}
+.exam-card summary{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:9px 0;color:var(--ink);cursor:pointer;font-weight:500;list-style:none}
+.exam-card summary::-webkit-details-marker{display:none}
+.exam-card summary::after{flex:0 0 auto;color:var(--gold);font-size:20px;font-weight:400;line-height:1;content:'+'}
+.exam-card details[open] summary::after{content:'−'}
+.exam-card details[open] summary{color:var(--blue)}
+.exam-card details p{padding:0 20px 12px 0;color:var(--muted);font-size:12px;line-height:1.65}
 .repo-download-link{text-decoration:underline;text-underline-offset:2px}
 @media(max-width:760px){.exam-grid{grid-template-columns:1fr}.exam-card{padding:23px}.exams-intro{font-size:13px}}
 

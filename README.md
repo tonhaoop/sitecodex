@@ -34,7 +34,7 @@ Os arquivos de produção estão compactados em poucas linhas. O comando **Forma
 - Identidade visual azul escuro e branco e retrato do Dr. Elimar Junior.
 - Seção “O diferencial do Dr. Elimar Junior”, com destaque ao atendimento cuidadoso.
 - Formação na PUC-Rio e na UERJ.
-- Seção com exames oftalmológicos e procedimentos realizados pelo médico.
+- Seção interativa com explicações dos exames oftalmológicos e procedimentos realizados pelo médico.
 - Instagram e WhatsApp fixos.
 - Endereço, mapa e rotas pelo Google Maps e Waze.
 - Perguntas frequentes e aviso de privacidade.
