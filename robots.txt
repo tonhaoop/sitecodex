@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dr-elimar-junior-oftalmologia.stonyrice9.chatgpt.site/sitemap.xml
